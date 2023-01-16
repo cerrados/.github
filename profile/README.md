@@ -1,0 +1,3 @@
+# Quem somos nós:
+
+O grupo de pesquisa `Cerrados Tech` é uma comunidade multidisciplinar de especialistas em engenharia de software, inteligência artificial e ciência de dados, o nome é uma singela homenagem o bioma cerrado. Nós nos dedicamos a investigar soluções inovadoras e aplicáveis para desafios reais, utilizando os avanços em inteligência artificial e ciência de dados. Nossa missão é desenvolver tecnologias avançadas para melhorar a vida das pessoas e contribuir para o crescimento sustentável. Acreditamos que a colaboração e o trabalho em equipe são fundamentais para alcançar nossos objetivos e estamos sempre abertos a novos membros interessados em se juntar a nós em nossa jornada de descoberta e inovação.
